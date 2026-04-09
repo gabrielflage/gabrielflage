@@ -4,7 +4,7 @@
 
 Sou Gabriel, tenho 18 anos e sou de Justinópolis (MG). Sou estudante de Ciência da Computação pela Faculdade Newton Paiva Wyden, com formação em Programação Web pelo SENAI.
 
-Busco minha primeira oportunidade na área de Tecnologia da Informação, com o objetivo de aplicar na prática os conhecimentos adquiridos e desenvolver minhas habilidades de forma contínua.
+Busco  oportunidade na área de Tecnologia da Informação, com o objetivo de aplicar na prática os conhecimentos adquiridos e desenvolver minhas habilidades de forma contínua.
 
 Sou uma pessoa responsável, determinada e proativa, com grande disposição para aprender, evoluir profissionalmente e contribuir com resultados dentro da organização.
 
